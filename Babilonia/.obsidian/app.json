@@ -1,0 +1,12 @@
+{
+  "livePreview": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "showLineNumber": false,
+  "foldIndent": false,
+  "rightToLeft": false,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "attachmentFolderPath": "./Adjunts"
+}
